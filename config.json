@@ -1,0 +1,9 @@
+{
+    "init": "/home/ahmed4s/Pictures/work",
+    "model": "NLP",
+    "key-api-OCR": "K89191596988957",
+    "training-type":"grp",
+    "correct-text":true,
+    "translate":"NLP",
+    "key-api-translate": "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"
+}
