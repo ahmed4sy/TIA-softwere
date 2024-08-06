@@ -8,7 +8,7 @@
 
 #### Config:
 
-\`\`\` json
+\`\`\`json
 {
 "init": "[ Folder images ]",
 "model": "[ model OCR ]",
