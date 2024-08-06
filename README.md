@@ -4,18 +4,18 @@
 
 #### Explain::
 
-######
+##### Tia is a program developed by Ahmed Youssef that works to translate images and comics into Arabic. Its goal is to break the language barrier that hinders public life.
 
 #### Config:
 
 ```json
 {
-"init": "[ Folder images ]",
-"model": "[ model OCR ]",
-"key-api-OCR": "[ API KEY OCR.space ]",
-"training-type":"[ name Train OCR ]",
-"correct-text":[ correct text image ],
-"translate":[ model Translate ],
-"key-api-translate": "[ API KEY Translate ]"
+  "init": "[ Folder images :: Take:str = [PATH] ]",
+  "model": "[ model OCR :: Take:str = (tess-ocr,api-ocr,NLP) ]",
+  "key-api-OCR": "[ API KEY OCR.space :: Take:str = [KEY] ]",
+  "training-type": "[ name Train OCR :: Take:str = [NAME] ]",
+  "correct-text": "[ correct text image :: Take:bool = (true,false) ]",
+  "translate": "[ model Translate :: Take:str = (auto,NLP) ]",
+  "key-api-translate": "[ API KEY Translate :: Take:str = [KEY] ]"
 }
 ```
