@@ -8,7 +8,7 @@
 
 #### Config:
 
-\`\`\`json
+\\\json
 {
 "init": "[ Folder images ]",
 "model": "[ model OCR ]",
@@ -18,4 +18,4 @@
 "translate":[ model Translate ],
 "key-api-translate": "[ API KEY Translate ]"
 }
-\`\`\`
+\\\
