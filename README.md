@@ -1,6 +1,6 @@
 # TIA-manual
 
-## APP:
+## Application:
 
 TranslateImagesAll is a program developed by Ahmed Yousif that works to translate images and comics into Arabic. Its goal is to break the language barrier that hinders public life. ![sorece program](https://github.com/ahmed4sy/Transimgs-sorece)
 
@@ -28,3 +28,6 @@ Config:
   "key-api-translate": "[ API KEY Translate :: Take:str = [KEY] ]"
 }
 ```
+
+## Training:
+## ICR:
