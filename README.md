@@ -33,7 +33,7 @@ Config:
 
 ## ICR:
 ## Build:
-
-#### Install:
-1. Java jre 17
-2. python `3.10` & `pip install easyocr`
+1. install Java `jre-17`
+2. install python `3.10` & `pip install easyocr`
+3. Make sure the command is present: `python3.10` and that it has this  `torch2.2.0+cpu` installed.
+4. Run program `./App.sh` in Linux
