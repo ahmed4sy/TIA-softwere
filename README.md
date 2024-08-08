@@ -2,7 +2,7 @@
 
 #### Explain:
 
-###### Tia is a program developed by Ahmed Youssef that works to translate images and comics into Arabic. Its goal is to break the language barrier that hinders public life.
+###### Tia is a program developed by Ahmed Yousif that works to translate images and comics into Arabic. Its goal is to break the language barrier that hinders public life.
 
 ##### ![sorece program](https://github.com/ahmed4sy/Transimgs-sorece)
 
