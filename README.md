@@ -1,8 +1,8 @@
 # TIA-manual
 
-#### Explain:
+## APP:
 
-###### Tia is a program developed by Ahmed Yousif that works to translate images and comics into Arabic. Its goal is to break the language barrier that hinders public life.
+TranslateImagesAll is a program developed by Ahmed Yousif that works to translate images and comics into Arabic. Its goal is to break the language barrier that hinders public life.
 
 ##### ![sorece program](https://github.com/ahmed4sy/Transimgs-sorece)
 
