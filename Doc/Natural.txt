@@ -1,11 +1,4 @@
-
-## Translate Images All (TIA) Full program:
-
-#### Explain::
-######
-
-#### Config:
-\`\`\`
+Config.json:
 {
     "init": "[ Folder images ]",
     "model": "[ model OCR ]",
@@ -15,4 +8,3 @@
     "translate":[ model Translate ],
     "key-api-translate": "[ API KEY Translate ]"
 }
-\`\`\`

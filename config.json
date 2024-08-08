@@ -1,9 +1,9 @@
 {
     "init": "/home/ahmed4s/Pictures/work",
-    "model": "NLP",
+    "model": "tess-ocr",
     "key-api-OCR": "K89191596988957",
-    "training-type":"grp",
+    "training-type":"buddy",
     "correct-text":true,
-    "translate":"NLP",
-    "key-api-translate": "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"
+    "translate":"auto",
+    "key-api-translate": "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"
 }
