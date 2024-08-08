@@ -32,8 +32,8 @@ Config:
 ## Training:
 
 ## ICR:
-Each image you have processed has a folder with the same name in the `Extracting` folder that contains all the extracted data. There is an `ICR.txt` file with it. Correct the words in it using the `imgs` folder.\n
-After correcting all the letters, write them on the command line:
+Each image you have processed has a folder with the same name in the `Extracting` folder that contains all the extracted data. There is an `ICR.txt` file with it. Correct the words in it using the `imgs` folder.<br />
+After correcting all the letters, write this on the command line:
 ```shell
 ./ICR.sh [name-image]
 ```
