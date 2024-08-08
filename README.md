@@ -1,5 +1,5 @@
 # Translate Images All
-
+![img](https://github.com/user-attachments/assets/9de328d4-ed2b-4b31-a18f-d32e49c7388e)
 ## Application:
 
 TIA is a program developed by Ahmed Yousif that works to translate images and comics into Arabic. Its goal is to break the language barrier that hinders public life. ![sorece program](https://github.com/ahmed4sy/Transimgs-sorece)
