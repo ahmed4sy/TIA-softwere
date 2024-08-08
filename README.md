@@ -32,13 +32,16 @@ Config:
 ## Training:
 
 ## ICR:
-
-Each image you have processed has a folder with the same name in the `Extracting` folder that contains all the extracted data. There is an `ICR.txt` file with it. Correct the words in it using the `imgs` folder.
+Each image you have processed has a folder with the same name in the `Extracting` folder that contains all the extracted data. There is an `ICR.txt` file with it. Correct the words in it using the `imgs` folder.\n
 After correcting all the letters, write them on the command line:
 ```shell
-./ICR.sh [name-image].(png,jpg)
+./ICR.sh [name-image]
 ```
-
+The output will be the percentage between the OCR and the correct one, like:
+```
+ICR: 75%
+```
+> Note: If there is a distorted image that you do not want to include in the calculation, you must write a space like this `“  “`
 ## Build:
 1. install Java `jre-17`.
 2. install python `3.10` & `pip install easyocr`.
