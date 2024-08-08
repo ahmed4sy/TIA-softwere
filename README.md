@@ -4,6 +4,17 @@
 
 TranslateImagesAll is a program developed by Ahmed Yousif that works to translate images and comics into Arabic. Its goal is to break the language barrier that hinders public life. ![sorece program](https://github.com/ahmed4sy/Transimgs-sorece)
 
+Options:
+
+```
+  "init": It is a folder that contains two folders (inp: to insert images, out: to extract images after the program process is complete)
+  "model": The type of engine that will take the texts from the image, and there are three so far.
+  "key-api-OCR": Ocr.space private api key.
+  "training-type": It is the name of the training file tesseract. ( auto:eng )
+  "correct-text": Correcting words that come from ocr.
+  "translate": The translation engine that will be used to translate the extracted texts is only two.
+  "key-api-translate": huggingface.co private api key.
+```
 Config:
 
 ```json
@@ -16,16 +27,4 @@ Config:
   "translate": "[ model Translate :: Take:str = (auto,NLP) ]",
   "key-api-translate": "[ API KEY Translate :: Take:str = [KEY] ]"
 }
-```
-
-Options:
-
-```
-  "init": It is a folder that contains two folders (inp: to insert images, out: to extract images after the program process is complete)
-  "model": The type of engine that will take the texts from the image, and there are three so far.
-  "key-api-OCR": Ocr.space private api key.
-  "training-type": It is the name of the training file tesseract. ( auto:eng )
-  "correct-text": Correcting words that come from ocr.
-  "translate": The translation engine that will be used to translate the extracted texts is only two.
-  "key-api-translate": huggingface.co private api key.
 ```
