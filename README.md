@@ -33,3 +33,7 @@ Config:
 
 ## ICR:
 ## Build:
+
+#### Install:
+1. Java jre 17
+2. python `3.10` & `pip install easyocr`
