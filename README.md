@@ -6,7 +6,7 @@ TranslateImagesAll is a program developed by Ahmed Yousif that works to translat
 
 ##### ![sorece program](https://github.com/ahmed4sy/Transimgs-sorece)
 
-#### Config:
+Config:
 
 ```json
 {
