@@ -2,7 +2,7 @@
 ![img](https://github.com/user-attachments/assets/9de328d4-ed2b-4b31-a18f-d32e49c7388e)
 ## Application:
 
-TIA is a program developed by Ahmed Yousif that works to translate images and comics into Arabic. Its goal is to break the language barrier that hinders public life. ![sorece program](https://github.com/ahmed4sy/Transimgs-sorece)
+> TIA is a program developed by Ahmed Yousif that works to translate images and comics into Arabic. Its goal is to break the language barrier that hinders public life. ![sorece program](https://github.com/ahmed4sy/Transimgs-sorece)
 
 Options:
 
@@ -35,5 +35,5 @@ Config:
 ## Build:
 1. install Java `jre-17`
 2. install python `3.10` & `pip install easyocr`
-3. Make sure the command is present: `python3.10` and that it has this  `torch2.2.0+cpu` installed.
+3. Make sure the command is present: `python3.10` and that it has this  `torch2.2.0+cpu` & `easyocr1.6.2` installed.
 4. Run program `./App.sh` in Linux
